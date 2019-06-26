@@ -134,7 +134,7 @@ yAxis = g => g
     .y(d => y(d))
  
 data = {
-  const data = await d3.tsv("https://gist.githubusercontent.com/mbostock/8033015/raw/01e8225d4a65aca6c759fe4b8c77179f446c5815/unemployment.tsv", (d, i, columns) => {
+  const data = await d3.tsv("https://github.com/atelierdechile/datafeed/blob/master/AFPs-rentab-2019.tsv", (d, i, columns) => {
     return {
       name: d.name.replace(/, ([\w-]+).*/, " $1"),
       values: columns.slice(1).map(k => +d[k])
