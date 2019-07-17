@@ -1,22 +1,50 @@
 {"name": "AFPs Chile",
  "children": [
-             {"name": "IDEAS",
+             {"name": "VIGENTES",
               "children": [
-                          {"name": "KM - Latch",
-                          "children": [ {"name": "Location", "size": 1005},
-                                        {"name": "Alphabetic", "size": 1004},
-                                        {"name": "Timeline", "size": 1003},
-                                        {"name": "Category", "size": 1002},
-                                        {"name": "Hierarchy", "size": 1001}
+                          {"name": "CAPITAL",
+                          "children": [ {"name": "Grupo Empresarial SURA (Colombia)", "size": 9965},
+                                        {"name": "Otros propietarios", "size": 35}                     
+                             
+                                      ]
+                          },
+                          {"name": "CUPRUM",
+                          "children": [ {"name": "Grupo Empresarial SURA (Colombia)", "size": 9965},
+                                        {"name": "Otros propietarios", "size": 35}                     
+                             
+                                      ]
+                          },
+                          {"name": "HABITAT",
+                          "children": [ {"name": "Grupo Empresarial SURA (Colombia)", "size": 9965},
+                                        {"name": "Otros propietarios", "size": 35}                     
+                             
+                                      ]
+                          },
+                          {"name": "MODELO",
+                          "children": [ {"name": "Grupo Empresarial SURA (Colombia)", "size": 9965},
+                                        {"name": "Otros propietarios", "size": 35}                     
+                             
+                                      ]
+                          },
+                          {"name": "PLAN VITAL",
+                          "children": [ {"name": "Grupo Empresarial SURA (Colombia)", "size": 9965},
+                                        {"name": "Otros propietarios", "size": 35}                     
+                             
+                                      ]
+                          },
+                          {"name": "PROVIDA",
+                          "children": [ {"name": "Grupo Empresarial SURA (Colombia)", "size": 9965},
+                                        {"name": "Otros propietarios", "size": 35}                     
+                             
                                       ]
                           }
                           ]
              }, 
-             {"name": "Objects for Real Desing",
-              "children": [ {"name": "Water", "size": 2001},
-                            {"name": "xtream Situations", "size": 2002},
-                            {"name": "Drones", "size": 2003},
-                            {"name": "Otros", "size": 2004}
+             {"name": "ANTIGUAS",
+              "children": [ {"name": "AFP1", "size": 2001},
+                            {"name": "AFP2", "size": 2002},
+                            {"name": "AFP3", "size": 2003},
+                            {"name": "AFP4", "size": 2004}
                           ]
              }
              ]
